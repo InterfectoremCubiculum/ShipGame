@@ -14,8 +14,8 @@ Used Items:
 
 To play the game you might need to change voltage for each button in main.c:
 The base used voltage
-double VSelect = 2.6;
-double VLeft = 1.75;
-double VDown = 1.1;
-double VUp = 0.4;
-double VRight = 0;
+- double VSelect = 2.6;
+- double VLeft = 1.75;
+- double VDown = 1.1;
+- double VUp = 0.4;
+- double VRight = 0;
