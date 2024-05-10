@@ -9,8 +9,8 @@ Tera Term Settings:
 - Flow control: none 
 
 Used Items:
--	LCD Keypad Shield
--	NUCLEO-L476RG
+-	LCD Keypad Shield,
+-	NUCLEO-L476RG.
 
 To play the game you might need to change voltage for each button in main.c:
 The base used voltage
